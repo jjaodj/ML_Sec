@@ -25,7 +25,7 @@ Replace `Name_Dockerfile` with the name of your generated Dockerfile and `Name_i
 
 ## Step 3: Define Container with CVE in `input.json`
 
-Create an `input.json` file to define the container that will have the CVE you want to test. Specify the container details and configurations within this file.
+Create an `input.json` file to define the container that will have the CVE you want to test or use sample json. Specify the container details and configurations within this file.
 
 ## Step 4: Create Virtual Network
 
